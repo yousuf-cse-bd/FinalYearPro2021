@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1056838474632",
+    "project_id": "patient-aid-my-app",
+    "storage_bucket": "patient-aid-my-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056838474632:android:4f53d1e6d449e7a53bb83d",
+        "android_client_info": {
+          "package_name": "com.example.patienaid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056838474632-sfreuglr1uqhl980oe71d3k2svbs464t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuzpJCcQMws6cZiPTChT12kYlEWS7DYuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056838474632-sfreuglr1uqhl980oe71d3k2svbs464t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
